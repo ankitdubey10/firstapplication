@@ -1,0 +1,32 @@
+li {
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 14px 16px;
+  float: left;
+  font-size: 20px;
+  font-weight: 650;
+}
+ul {
+  margin: 0%;
+  padding: 0%;
+  width: 100%;
+  height: 55px;
+  background-color: blue;
+}
+.App {
+  align-items: center;
+  font-size: large;
+  justify-items: center;
+}
+button {
+  width: 70px;
+  height: 70px;
+  border-radius: 50%;
+  cursor: pointer;
+}
+th, td {
+  padding: 5px;
+  text-align: left;
+  border-bottom: 1px solid #ddd;
+}
